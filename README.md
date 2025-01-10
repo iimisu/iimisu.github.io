@@ -105,4 +105,32 @@ Below are two key projects that I have completed to demonstrate my practical ski
   - Documented the malware's encryption process and identified mitigation strategies.  
 **Outcome:** Produced a detailed report outlining the malware’s lifecycle, infection vectors, and steps to prevent similar attacks.
 
+## Learning Journey
 
+### What I've Learned So Far:
+Gained a solid foundation in penetration testing, including OWASP Top10 vulnerability.  
+Learned to use tools like Wireshark,Nmap,Metasploit for network traffic analysis and threat detection.  
+Developed skills in malware reverse engineering, including static and dynamic analysis using tools like Ghidra, IDA.  
+
+### Challenges:
+- **Malware Analysis:** Understanding obfuscation techniques used by advanced malware.  
+- **Incident Response:** Developing speed and accuracy in identifying and responding to threats.  
+
+### Improvement Plan:
+Continue practicing malware analysis by working with real-world samples in a safe lab environment.  
+Enroll in advanced courses on incident response and forensic analysis.  
+Participate in Capture the Flag (CTF) challenges to hone practical skills.
+
+## Career Objective
+
+My ultimate goal is to become a Certified Ethical Hacker (CEH) and work in a Security Operations Center (SOC) as a Threat Analyst or Penetration Tester. I aim to specialize in proactive threat hunting, vulnerability management, and helping organizations secure their digital infrastructure.
+
+## Contact Information
+
+Feel free to reach out to me via the following platforms:  
+
+- **GitHub:** https://github.com/iimisu
+
+## GitHub Pages
+
+This portfolio is also available as a live website: iimisu.github.io
