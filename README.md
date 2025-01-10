@@ -11,10 +11,8 @@ Hi! My name is KK, and I am a cybersecurity enthusiast dedicated to learning and
 ## Technical Skills
 
 ### Tools:
-**Network Analysis:** Wireshark, tcpdump
-
-**Penetration Testing:** Metasploit, Burp Suite, Cobalt Strike, Kali, Nikto,nmap 
-
+**Network Analysis:** Wireshark, tcpdump\n
+**Penetration Testing:** Metasploit, Burp Suite, Cobalt Strike, Kali, Nikto,nmap\n 
 **Malware Analysis:** IDA Pro, Ghidra, Hybrid Analysis, Volatility, Cuckoo Sandbox  
 **SIEM Tools:** Splunk, ELK Stack, Graylog, AlienVault  
 **Cloud Security Tools:** AWS Inspector, Azure Security Center, Google Cloud Security Command Center  
@@ -28,14 +26,12 @@ Hi! My name is KK, and I am a cybersecurity enthusiast dedicated to learning and
 
 ### Concepts and Frameworks:
 **1.Vulnerability Management:** Identifying, assessing, and mitigating vulnerabilities in systems and networks  
-**2.Incident Response Lifecycle:** Detection, identification, containment, eradication, recovery, and lessons learned
-
+**2.Incident Response Lifecycle:** Detection, identification, containment, eradication, recovery, and lessons learned\n
 **3.Secure Software Development Lifecycle (SDLC):** Security measures integrated into each phase of software development  
 **4.Networking (TCP/IP, Firewalls, VPN, DNS):** Understanding and securing network protocols, configuring and maintaining firewalls, securing virtual private networks (VPNs)  
 **5.Threat Intelligence:** Collecting, analyzing, and disseminating actionable information regarding potential cyber threats  
 **6.Risk Management:** Identifying, assessing, and prioritizing risks to systems and data, followed by implementation of mitigation measures  
-**7.Advanced Persistent Threats (APT):** Identifying and defending against prolonged and targeted cyberattacks 
-
+**7.Advanced Persistent Threats (APT):** Identifying and defending against prolonged and targeted cyberattacks\n 
 **8.Red Team / Blue Team Exercises:** Offensive (Red) and defensive (Blue) security practices to simulate and defend against real-world attacks  
 **9.Social Engineering:** Manipulating people to gain unauthorized access to systems or data  
 **10.Zero Trust Architecture:** Designing systems with the assumption that threats exist both inside and outside the network  
