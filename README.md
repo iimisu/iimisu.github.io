@@ -133,4 +133,4 @@ Feel free to reach out to me via the following platforms:
 
 ## GitHub Pages
 
-This portfolio is also available as a live website: iimisu.github.io
+This portfolio is also available as a live website: https://iimisu.github.io
