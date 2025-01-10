@@ -36,6 +36,30 @@ Hi! My name is KK, and I am a cybersecurity enthusiast dedicated to learning and
 **9.Social Engineering:** Manipulating people to gain unauthorized access to systems or data  
 **10.Zero Trust Architecture:** Designing systems with the assumption that threats exist both inside and outside the network  
 
+## Certifications and Training
+
+Below are my completed and ongoing certifications, along with additional training and platforms I use to enhance my cybersecurity skills:
+
+### Certifications:
+- **CompTIA Security+** (Completed)  
+- **Certified Information Security Professional (CISP)** (Completed)  
+- **HTB Certified Penetration Testing Specialist(CPTS)** (In Progress)  
+
+### Training and Platforms:
+**Hack The Box (HTB):**  
+Active member of HTB, solving real-world penetration testing challenges and improving my hands-on hacking skills.  
+Completed multiple machines in categories like web exploitation, privilege escalation, and reverse engineering.  
+
+**TryHackMe:**  
+Regularly practice cybersecurity scenarios and labs to gain practical experience.  
+
+**OWASP Top 10 Workshop:**  
+Hands-on workshop focused on web application security vulnerabilities listed in the OWASP Top 10.  
+Explored real-world examples of SQL Injection, Cross-Site Scripting (XSS), and Insecure Deserialization.  
+
+**Cybersecurity by Cisco Networking Academy:**  
+Learned the basic principles of cybersecurity, including cryptography, network defense, and threat intelligence. 
+
 ## Project Experience
 
 Below are two key projects that I have completed to demonstrate my practical skills in cybersecurity:
@@ -80,3 +104,5 @@ Below are two key projects that I have completed to demonstrate my practical ski
   - Captured network traffic with Wireshark to identify command-and-control (C2) communication patterns.  
   - Documented the malware's encryption process and identified mitigation strategies.  
 **Outcome:** Produced a detailed report outlining the malware’s lifecycle, infection vectors, and steps to prevent similar attacks.
+
+
