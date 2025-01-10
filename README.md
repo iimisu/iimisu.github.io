@@ -26,7 +26,7 @@ Hi! My name is KK, and I am a cybersecurity enthusiast dedicated to learning and
 
 ### Concepts and Frameworks:
 **1.Vulnerability Management:** Identifying, assessing, and mitigating vulnerabilities in systems and networks  
-**2.Incident Response Lifecycle:** Detection, identification, containment, eradication, recovery, and lessons learned 
+**2.Incident Response Lifecycle:** Detection, identification, containment, eradication, recovery, and lessons learned
 **3.Secure Software Development Lifecycle (SDLC):** Security measures integrated into each phase of software development  
 **4.Networking (TCP/IP, Firewalls, VPN, DNS):** Understanding and securing network protocols, configuring and maintaining firewalls, securing virtual private networks (VPNs)  
 **5.Threat Intelligence:** Collecting, analyzing, and disseminating actionable information regarding potential cyber threats  
