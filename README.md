@@ -138,7 +138,7 @@ My ultimate goal is to become a Certified Ethical Hacker (CEH) and work in a Sec
 Feel free to reach out to me via the following platforms:  
 
 - **GitHub:** https://github.com/iimisu
-
+- **Email:** 23087762@siswa.um.edu.my
 ## GitHub Pages
 
 This portfolio is also available as a live website: 
